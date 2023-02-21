@@ -1,4 +1,4 @@
-#!/Volumes/Development/cursos/sidia/sidiudemy/django/workspace/venv/bin/python3.11
+#!/Volumes/Development/cursos/sidia/sidiudemy/django/workspace/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
